@@ -1,4 +1,5 @@
 This document will show you how to setup user directories
+`https://httpd.apache.org/docs/2.4/howto/public_html.html`
 
 1) Check the `userdir.conf` file. On CentOS 7, the path to the file
 is `/etc/httpd/conf.d/userdir.conf`. By default, all lines of the
