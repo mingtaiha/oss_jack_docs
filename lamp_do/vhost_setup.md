@@ -1,5 +1,9 @@
 This guide talks about how to set up a Virtual Host
-Source: https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-centos-7
+
+Sources: 
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-centos-7
+https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps
 
 This assumes that you have sudo access (or are acting as root)
 
